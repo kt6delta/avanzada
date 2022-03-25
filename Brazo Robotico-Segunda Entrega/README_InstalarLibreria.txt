@@ -1,0 +1,1 @@
+Para la correcta ejecución del proyecto se debe instalar la libreria adjunta 'DS_Desktop_Notify'
